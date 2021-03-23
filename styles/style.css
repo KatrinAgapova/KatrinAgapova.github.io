@@ -1,0 +1,31 @@
+body {
+    background-color: #808080;
+}
+
+.par > div {
+    
+
+}
+
+.para {
+    background-image: url("../img/zbr.jpg");
+    background-repeat: repeat-y;
+    }
+
+.parb {
+    background-image: url("../img/zbr1.jpg");
+    background-repeat: repeat-x;
+}
+
+
+.logo {
+    border-style: none;
+    border-radius: 50px;
+    
+}
+.raccoon {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: black; 
+    -webkit-text-stroke: 1px #FFFFFF;
+}
